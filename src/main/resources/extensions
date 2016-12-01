@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ivan",
+    "role": "FR",
+    "ext": "101"
+  },
+  {
+    "name": "Jerry",
+    "role": "FR",
+    "ext": "102"
+  },
+  {
+    "name": "Harvey",
+    "role": "TL",
+    "ext": "103"
+  },
+  {
+    "name": "Ruby",
+    "role": "PM",
+    "ext": "104"
+  }
+]
