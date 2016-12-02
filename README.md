@@ -1,3 +1,3 @@
 # CallCenter
 
-Please see Java Doc in doc/.
+1. Please see java doc and equenceDiagram in doc/.
